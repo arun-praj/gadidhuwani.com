@@ -272,7 +272,7 @@ export default function Home() {
                 allowFullScreen={false}
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                className="absolute inset-0 grayscale contrast-[1.1]"
+                className="absolute inset-0 transition-opacity"
               />
             </div>
           </div>
