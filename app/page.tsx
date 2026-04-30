@@ -243,7 +243,7 @@ export default function Home() {
                   <div>
                     <span className="block font-medium mb-1">Primary Hotline (24/7)</span>
                     <a href="tel:+9779851420084" className="block text-[var(--color-muted-foreground)] hover:text-[var(--color-accent)] hover:underline">+977 9851420084</a>
-                    <a href="tel:+9771524296" className="block text-[var(--color-muted-foreground)] hover:text-[var(--color-accent)] hover:underline">01-524296</a>
+                    <a href="tel:+9771524296" className="block text-[var(--color-muted-foreground)] hover:text-[var(--color-accent)] hover:underline">01-5242096</a>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
